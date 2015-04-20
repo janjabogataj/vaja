@@ -1,15 +1,11 @@
 body {
     background-color:lightsteelblue;
 }
-    
-
-.header {
+. header {
     margin:0;
     width: 100%;
     background-color: lightsteelblue;
     }
-
-
 .do_undo {
     display:inline;
     left: 0;
@@ -50,13 +46,10 @@ body {
     border:1px solid black;
     height: 820px;
 }
-
 .main1 {
     position:absolute;
     right:20px;
-    
-    
-}
+ }
 .main2 {
     position: relative;
     top: 300px;
@@ -66,26 +59,21 @@ body {
     position: relative;
     top: 340px;
     text-align:center;  
-    
-}
+ }
 .main4 {
     position: relative;
     top: 380px;
     
     text-align:center;  
-    
-}
+  }
 .mainmenu {
     display:inline-block;
-        
-}
+ }
 
 p {
     font-family: arial narrow, sans-serif;
     font-size: 19px;
 }
-
-    
 button {
     font-family: arial narrow, sans-serif;
     font-size: 17px;
@@ -99,7 +87,6 @@ button:hover{
 	border: 1px solid #c0c0c0;
 	border-bottom: 2px solid #dcdcdc;
 }
-
 .crke {
     font-family: inherit, fantasy, monospace;
     font-size: 140px;
@@ -124,7 +111,6 @@ button:hover{
     display: inline-block;
     color: forestgreen; 
 }
-    
 .left {
     float: left;
     padding-left:3px;
