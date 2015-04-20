@@ -1,0 +1,138 @@
+body {
+    background-color:lightsteelblue;
+}
+    
+
+.header {
+    margin:0;
+    width: 100%;
+    background-color: lightsteelblue;
+    }
+
+
+.do_undo {
+    display:inline;
+    left: 0;
+    height:40px;
+    width: 40px;
+    background-color: white;
+}
+.naslov {
+    display:inline-block;
+    height:40px;
+    width: 400px;
+    border:1px solid black;
+    background-color: white;
+}
+.ukazi {
+    display:inline;
+    position: absolute;
+    right:5px;
+    left:auto;
+}
+.znaki {
+    display:inline;
+    height:40px;
+    width: 40px;
+    
+}
+.menu {
+    height: 40px;
+    width: 99%;
+    background-color: gainsboro;
+    border:1px solid black;
+    position: fixed;
+    padding-top: 5px;
+}
+.main {
+    background-color: white;
+    width: 100%;
+    border:1px solid black;
+    height: 820px;
+}
+
+.main1 {
+    position:absolute;
+    right:20px;
+    
+    
+}
+.main2 {
+    position: relative;
+    top: 300px;
+    text-align:center;    
+}
+.main3 {
+    position: relative;
+    top: 340px;
+    text-align:center;  
+    
+}
+.main4 {
+    position: relative;
+    top: 380px;
+    
+    text-align:center;  
+    
+}
+.mainmenu {
+    display:inline-block;
+        
+}
+
+p {
+    font-family: arial narrow, sans-serif;
+    font-size: 19px;
+}
+
+    
+button {
+    font-family: arial narrow, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    height:30px;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
+button:hover{
+	background-color: #f1f1f1;
+	border: 1px solid #c0c0c0;
+	border-bottom: 2px solid #dcdcdc;
+}
+
+.crke {
+    font-family: inherit, fantasy, monospace;
+    font-size: 140px;
+    display: inline-block;
+    color: royalblue;
+}
+.crkered {
+    font-family: inherit, fantasy, monospace;
+    font-size: 140px;
+    display: inline-block;
+    color: crimson;    
+}
+.crkey {
+    font-family: inherit, fantasy, monospace;
+    font-size: 140px;
+    display: inline-block;
+    color: darkorange;    
+}
+.crkeg {
+    font-family: inherit, fantasy, monospace;
+    font-size: 140px;
+    display: inline-block;
+    color: forestgreen; 
+}
+    
+.left {
+    float: left;
+    padding-left:3px;
+    margin-top: 0;
+}
+.right {
+    float: right;
+    padding-right:3px;
+    margin-top: 0;
+}
+    
